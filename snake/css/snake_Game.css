@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+h1{
+    font-size: 2.5em;
+    font-family: 'Zen Dots', cursive;
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px 2px black;
+}
+p{
+    font-size: 1.5em;
+    text-align: center;
+    color: lightgray;
+    font-family: 'Zen Dots', cursive;
+}
+body{
+    background-color: cornflowerblue;
+}
+canvas{
+    display: block;
+    margin: 5px auto;
+    border: 5px solid black;
+}

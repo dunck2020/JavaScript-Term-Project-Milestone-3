@@ -1,0 +1,26 @@
+#myPongGame{
+    background-color: blanchedalmond;
+}
+body{
+    background-color:chocolate;
+    text-align: center;
+    margin: 30px;
+}
+h1{
+    color: rgb(70, 60, 47);
+    text-shadow: 3px 3px 5px black;
+    font-size: 2.5em;
+    font-family: fantasy;
+}
+h2{
+    color: rgb(70, 60, 47);
+    font: 700;
+    font-family: fantasy;
+    font-size: 1em;
+}
+a{
+    text-decoration: none;
+}
+button{
+    left: -.5em;
+}
